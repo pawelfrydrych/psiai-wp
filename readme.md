@@ -18,3 +18,12 @@
    - Newsletters 
    - MailChimp for WordPress 
    - Jackmail Newsletters  
+   
+> cookies
+   - **GDPR Cookie Consent  (http://localhost/wp-admin/plugin-install.php?tab=plugin-information&plugin=cookie-law-info&TB_iframe=true&width=772&height=572)**
+   - GDPR Cookie Compliance 
+   - EU Cookie Law 
+   - Cookie Notice for GDPR 
+   - Cookiebot | GDPR Compliant Cookie Consent and Notice 
+   - Asesor de Cookies para normativa española 
+   - GDPR Cookie Consent Banner | Termly 
