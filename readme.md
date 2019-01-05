@@ -27,3 +27,28 @@
    - Cookiebot | GDPR Compliant Cookie Consent and Notice 
    - Asesor de Cookies para normativa española 
    - GDPR Cookie Consent Banner | Termly 
+   
+   
+   
+   
+   
+   
+# DO ZROBIENIA:
+
+# https://docs.google.com/document/d/1oFlyHazTUCB_-9MLv94waFLne4_m6TwIt_DLfKyIvX8/edit
+Do zrobienia: 
+
+1. mapa witryny 1pkt grupowo
+2. mapa strony 1pkt grupowo
+3. dobór komponentów -> pluginów  1pkt  indywidualnie
+
+
+4. WBS  1pkt
+5. delphi ( estymacja )  1pkt 
+6. harmonogram  1pkt
+
+To wszystko na 17 stycznia
++
+18 stycznia KM1
+25 stycznia KM2
+31 stycznia poprawione sprawozdania
