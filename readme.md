@@ -11,7 +11,7 @@
    
    
 > newsletter pop-up
-   - **Popup Builder – Responsive WordPress Pop up – Subscription & Newsletter  ** (http://localhost/wp-admin/plugin-install.php?tab=plugin-information&plugin=popup-builder&TB_iframe=true&width=600&height=550)
+   - **Popup Builder – Responsive WordPress Pop up – Subscription & Newsletter  ** (http://localhost/wp-admin/plugin-install.php?tab=plugin-information&plugin=popup-builder&TB_iframe=true&width=600&height=550)**
    - Email Subscribers & Newsletters 
    - Newsletter
    - MailPoet – emails and newsletters in WordPress 
