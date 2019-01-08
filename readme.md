@@ -32,7 +32,7 @@ _pogrubione oznacza zainstalowane już_
    
 > timer
    - Countdown Timer – Widget Countdown 
-   - Countdown Timer Ultimate 
+   - **Countdown Timer Ultimate** 
    - Finale – WooCommerce Sales Countdown Timer & Discount Plugin Lite
    - Countdown and CountUp Timer 
    - Wow Countdowns – create any counter, timer and coundown 
