@@ -1,5 +1,7 @@
 # Pluginy:
 
+_pogrubione oznacza zainstalowane już_
+
 > social media 
    - **Social Media Share Buttons & Social Sharing Icons (http://localhost/wp-admin/plugin-install.php?tab=plugin-information&plugin=ultimate-social-media-icons&TB_iframe=true&width=772&height=572)**
    - WordPress Social Share, Social Login and Social Comments Plugin – Super Socializer 
@@ -28,8 +30,30 @@
    - Asesor de Cookies para normativa española 
    - GDPR Cookie Consent Banner | Termly 
    
+> timer
+   - Countdown Timer – Widget Countdown 
+   - Countdown Timer Ultimate 
+   - Finale – WooCommerce Sales Countdown Timer & Discount Plugin Lite
+   - Countdown and CountUp Timer 
+   - Wow Countdowns – create any counter, timer and coundown 
    
+> calculator
+   - Calculated Fields Form 
    
+> files
+   - File Manager 
+
+> contact form
+   - Contact Form 7 
+   - Contact Form by WPForms – Drag & Drop Form Builder for WordPress 
+   - Form Maker by WD – responsive drag & drop Contact Form Builder 
+   - Contact Form to Manage and respond to conversations with customers — HappyForms 
+   
+> advertisements
+   - Advanced Ads – Ad Manager with AdSense Integration 
+   - Text Advertisements 
+   - Woocommerce Product Advertisement 
+   - WordPress Ads & AdSense plugin – Ad Inserter 
    
    
    
