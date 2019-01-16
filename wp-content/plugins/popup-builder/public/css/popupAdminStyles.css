@@ -322,6 +322,19 @@
 	background-color: #d4a6e0 !important;
 }
 
+.pushNotification-popup,
+.pushNotification-popup-pro {
+	background-image: url("../img/pushNotificationTypeIcon.png");
+}
+
+.sgpb-pushNotification-div {
+	background-color: #dedede !important;
+}
+
+.sgpb-pushNotification-div:hover {
+	background-color: #dedede !important;
+}
+
 .sgpb-extensions-wrapper .sgpb-iframe-div {
 	background-color: rgba(212, 166, 224, 0.4) !important;
 }
